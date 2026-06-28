@@ -1,3 +1,3 @@
-A very basic Tic-tac-toe game in made in Go for fun.
+A very basic Tic-tac-toe game i made in Go for fun.
 
 ![Markdown Logo](images/example.png)
